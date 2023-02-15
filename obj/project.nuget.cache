@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2gpLLg2Mwv2DC+r8ckXG+zBjHa7D+wbRi4Vt3QDKUl3ziEfHb1JX0qAccLU+/4Q9nwf04N4USMmu0Xl+sqrdg==",
+  "dgSpecHash": "N0fxvepGTdKbsb0ci2/pSc0Uu0YLEfD1zzx1pbBdTnYpWXnoBjC2icFj+lBQqEDjGlPwBM+16kPwoJ9pPRlQkg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User\\codesProjects\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\User\\codesProjects\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
